@@ -1,0 +1,4 @@
+[workspace]
+members = ["static-prebuild-models", "static-prebuild-macros"]
+
+[workspace.dependencies]
